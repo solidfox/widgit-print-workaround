@@ -2,7 +2,7 @@
 set -euo pipefail
 
 PAYLOAD_URL="https://raw.githubusercontent.com/solidfox/widgit-print-workaround/main/Widgit_Print_Workaround_Vanilla_Mac_arm64.zip"
-PAYLOAD_SHA256="3d66a0c92ca7e7ccca9e63546725d4973f1dfaaddc4fedfdb2ce0bb60db9c71b"
+PAYLOAD_SHA256="148037af3e69f6a5be64815a7d27f7ab0dc5ef81c96a28b8ac3022f2dd3b3249"
 
 HOME_DIR="${HOME}"
 INSTALL_ROOT="$HOME_DIR/Library/Application Support/Widgit Print Workaround"
